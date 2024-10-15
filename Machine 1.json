@@ -1,0 +1,127 @@
+{
+    "NewReport.pdf_page_1": {
+        "Title des Berichts": "Servicebericht Kessel",
+        "Machine1": {
+            "Dampftrommel": {
+                "Unterteil": "X X",
+                "Deckel": "X X",
+                "Druckmessgeräte": "X X",
+                "Verteiler": "X X",
+                "Scheidenteller": "X X",
+                "Dampfleitungen": "X X",
+                "Dichtungen": "X X",
+                "Oben genannte Trommel wurde ausgetauscht": "",
+                "Tr. Nr.": "",
+                "Schlammablassventil": "X X",
+                "Wärmetauscher": "X X",
+                "Dichtringe": "X X",
+                "Rußbläser": "X X"
+            }
+        },
+        "Andere Machinen": {
+            "Andere Maschinen die Kontrolliert werden müssen": [
+                "Pumpensysteme",
+                "Förderbandsysteme",
+                "Rührwerke",
+                "Hydraulikpressen"
+            ]
+        },
+        "Legende": {
+            "2": "Ohne Mängel",
+            "3": "brauchbar",
+            "4": "Mängel, Werksüberprüfung",
+            "5": "Betriebsgefahr, Stillsetzung",
+            "B": "Teil bearbeitet, korrigiert, repariert",
+            "E": "Teil wurde erneuert",
+            "A": "Teil noch auszutauschen",
+            "X": "Teil nicht bearbeitet"
+        },
+        "Art der Kontrolle": {
+            "Kontrolle auf": "Heizleistung, Zustand der Brenner, Druck im Kessel, Wasserstand, Funktion der Sicherheitsventile, Korrosionserscheinungen, Zustand der Isolierung, Geräuschentwicklung, Abgasaustritt",
+            "Testlauf": {
+                "Ja": true,
+                "Nein": false,
+                "mit Produkt": true,
+                "mit Wasser": false,
+                "trocken": false
+            },
+            "Durchsatzleistung": "ca. 10 t",
+            "Drehzahl (min⁻¹)": "4709",
+            "Stromaufnahme (A)": "31,5",
+            "Anlaufzeit t": "12 min",
+            "Ablaufdruck (bar)": "1,9",
+            "abgelesen": true,
+            "It. Kunde": false,
+            "Zulaufdruck (bar)": "0,8",
+            "Ja": true,
+            "Funktion der Sicherheitswasser überprüft": {
+                "Ja": true,
+                "Nein": false,
+                "Nicht vorhanden": false,
+                "wenn nein warum": ""
+            }
+        },
+        "Allgemeine Info": {
+            "Betreiber/ Firma": "Pfizer",
+            "SAP Equipment-Nr.": "5899-49/RSE 7312",
+            "Datum": "19.09.2023",
+            "Servicetechniker": "nithya",
+            "Straße": "Alois-Fuchs-Weg",
+            "Kd.bez.": "S.4",
+            "Baujahr": "01.2010",
+            "Betriebs-Std.": "16710",
+            "Trommel-Nr.": "752-845",
+            "Verantwl.": "Herr Mounzer",
+            "Produkt": "Cola",
+            "Package": "",
+            "Letzte Wartung am": "19.08.2023",
+            "Nächste Wartung am": "19.11.2023",
+            "Betriebsbedingungen": {
+                "Ex-Betrieb": false,
+                "Schutzgas": false,
+                "Betriebszeit/Tag": "24h"
+            },
+            "Angaben zum Produkt": {
+                "Temp (C)": "",
+                "giftig/ätzend": false,
+                "anhaftend": false,
+                "explosiv": false,
+                "normal": true
+            },
+            "Aufstellung der Maschine": {
+                "Beton": false,
+                "Beton weitere Ebenen": false,
+                "Stahlgerüst": false
+            },
+            "Service": {
+                "kleine Wartung": false,
+                "große Wartung": true,
+                "Reperatur vor Ort": false,
+                "Inbetriebnahme": false,
+                "Versuch": false,
+                "Überprüfung": false
+            }
+        },
+        "Hand Notizen": "Hand Written Notes:",
+        "Bemerkung zur Personal": {
+            "Personal wurde eingewiesen": {
+                "Ja": true,
+                "Nein": false
+            },
+            "Der Kessel wurde nach dem Testlauf dem Betreiber betriebsklär übergeben und abgenommen": {
+                "Ja": true,
+                "Nein": false
+            },
+            "Der Kessel muss auf Grund sicherheitstechnischer Mängel stillgesetzt werden": {
+                "Ja": true,
+                "Nein": false
+            },
+            "Der Betreiber wurde darauf hingewiesen, nur Westfalia Original Ersatzteile einzusetzen": {
+                "Ja": true,
+                "Nein": false
+            }
+        },
+        "Allgemeine Bemerkungen": "Der Kessel zeigte einen Druckabfall. Bei der Untersuchung stellte sich heraus, dass ein Sicherheitsventil nicht ordnungsgemäß funktionierte. Das defekte Ventil wurde ersetzt und der Druck im Kessel stabilisierte sich wieder. Zusätzlich wurden Korrosionsspuren an der Isolierung festgestellt, die ausgebessert wurden, um weitere Schäden zu verhindern.",
+        "Signatur": "Signature"
+    }
+}

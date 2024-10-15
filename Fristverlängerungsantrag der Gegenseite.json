@@ -1,0 +1,945 @@
+{
+    "Fristverlängerungsantrag der Gegenseite1": {
+        "Page 1": {
+            "Gericht": {
+                "Name": "Amtsgericht Köln",
+                "Adresse": {
+                    "Straße": "Luxemburger Str. 101",
+                    "PLZ": "50939",
+                    "Stadt": "Köln"
+                },
+                "Kontakt": {
+                    "Telefon": "0221/477-0",
+                    "Telefax": "0221/477-33 33",
+                    "Website": "www.ag-koeln.nrw.de"
+                },
+                "Sprechzeiten": {
+                    "Montag": "8:00 - 12:00 Uhr",
+                    "Dienstag": "8:00 - 12:00 Uhr",
+                    "Mittwoch": "8:00 - 12:00 Uhr",
+                    "Donnerstag": "9:00 - 12:00 Uhr, 14:00 - 15:00 Uhr",
+                    "Freitag": "8:00 - 12:00 Uhr"
+                },
+                "Nachtbriefkasten": {
+                    "Adresse": "Luxemburger Str. 101, 50939 Köln"
+                },
+                "Konten": {
+                    "Bank": "Deutsche Bundesbank Filiale Köln",
+                    "IBAN": "DE87370000000037001512"
+                }
+            },
+            "Rechtsstreit": {
+                "Aktenzeichen": "150 C 29/23",
+                "Datum": "20.06.2023",
+                "Parteien": {
+                    "Kläger": "Neue Rechtsschutz-Versicherungsgesellschaft AG",
+                    "Beklagter": "Decker & Böse Rechtsanwaltsgesellschaft mbH"
+                },
+                "Bearbeiter": {
+                    "Name": "Frau Kirberg",
+                    "Durchwahl": "0221/477-1919"
+                },
+                "Ihr Zeichen": "78405-23-Kt-R"
+            },
+            "Empfänger": {
+                "Name": "Decker & Böse Rechtsanwaltsgesellschaft mbH",
+                "Adresse": {
+                    "Straße": "Claudiastr. 2",
+                    "PLZ": "51149",
+                    "Stadt": "Köln"
+                }
+            },
+            "Zusätzliche Informationen": {
+                "Ersteller": "Kirberg",
+                "Position": "Justizbeschäftigte",
+                "Hinweis": "automatisiert erstellt, ohne Unterschrift gültig",
+                "Datenschutz": "Informationen zur Verarbeitung personenbezogener Daten in Rechtssachen durch die Justiz in Nordrhein-Westfalen finden Sie unter: www.justiz.nrw/datenschutz/rechtssachen."
+            }
+        },
+        "Page 2": {
+            "Rechtsanwaltskammer": {
+                "Name": "Karlsruhe",
+                "SteuerNr": "FA MA-Neckarstadt 37220/20536",
+                "Bankverbindung": {
+                    "Bank": "ING DiBa AG",
+                    "IBAN": "DE18 5001 0517 5432 6633 51",
+                    "BIC_SWIFT": "INGDDEFFXXX"
+                }
+            },
+            "Rechtsanwalt": {
+                "Name": "Dieter Holch",
+                "Adresse": {
+                    "Straße": "Obere Clignetstr. 14",
+                    "PLZ_Ort": "68167 Mannheim"
+                },
+                "Kontakt": {
+                    "Telefon": "0621 43744700",
+                    "Telefax": "0621 43754268",
+                    "E-Mail": "kanzlei@ra-holch.de",
+                    "Mobiltelefon": "0157 92374382"
+                }
+            },
+            "Gericht": {
+                "Name": "Amtsgericht Köln",
+                "Adresse": {
+                    "Straße": "Luxemburger Straße 101",
+                    "PLZ_Ort": "50939 Köln"
+                }
+            },
+            "Rechtsstreit": {
+                "Parteien": "NRV AG ./. Decker & Böse Rechtsanwaltsgesellschaft mbH (Alaettin Cenberli ./. Targobank AG)",
+                "Aktenzeichen": "150 C 29/23",
+                "Gerichtsentscheid": {
+                    "Datum": "23.05.2023",
+                    "Fristverlängerung": "07.07.2023"
+                },
+                "MündlicheVerhandlung": {
+                    "Datum": "23.06.2023",
+                    "Bemerkung": "Erste mündliche Verhandlung mit vergleichbarem Streitgegenstand"
+                }
+            },
+            "Datum": "19.06.2023",
+            "Zeichen": "201-20-DH",
+            "NRV_Zeichen": "916005196600002 N"
+        },
+        "Page 3": {
+            "Prüfvermerk": {
+                "Datum": "19.06.2023",
+                "Uhrzeit": "16:23:21"
+            },
+            "Dokumenteneingang": {
+                "Beschreibung": "Die unten aufgeführten Dokumente sind elektronisch eingegangen.",
+                "Technische Prüfung": "Die technische Prüfung der elektronischen Dokumente hat folgendes Ergebnis erbracht:"
+            },
+            "Nachricht": {
+                "Sicherer Übermittlungsweg": "aus einem besonderen Anwaltspostfach",
+                "Eingangszeitpunkt": "19.06.2023, 16:22:09",
+                "Absender": {
+                    "Name": "Dieter Holch",
+                    "Nutzer-ID": "DE.BRAK.69a73608-8dfd-43cb-b787-577a89066dff.1024",
+                    "Aktenzeichen": "201-20-DH"
+                },
+                "Empfänger": {
+                    "Name": "Amtsgericht Köln",
+                    "Aktenzeichen": "150 C 29/23"
+                },
+                "Betreff": "Betreff der Nachricht",
+                "Nachrichtenkennzeichen": "EGVP_GP116871845288185720996159367817400"
+            },
+            "Dokumente": [
+                {
+                    "Dateiname": "DH3139.pdf",
+                    "Format": "pdf",
+                    "Qualifiziert signiert": "nein"
+                },
+                {
+                    "Dateiname": "xjustiz_nachricht.xml",
+                    "Format": "xml",
+                    "Qualifiziert signiert": "nein"
+                }
+            ]
+        }
+    },
+    "Fristverlängerungsantrag der Gegenseite2": {
+        "Page 1": {
+            "Dokument": {
+                "Ihr_Zeichen": "63615-22-RA-P-PKV",
+                "Aktenzeichen": "23 O 25/23",
+                "Datum": "26.05.2023",
+                "Beteiligte_Parteien": {
+                    "Kläger": "Leppelt, J.",
+                    "Beklagter": "Generali Deutschland Krankenversicherung AG"
+                },
+                "Anschrift": {
+                    "Landgericht": "Landgericht Berlin",
+                    "Adresse": "Tegeler Weg 17-21, 10589 Berlin"
+                },
+                "Kontaktinformationen": {
+                    "Telefon": "030 90188-0",
+                    "Telefax": "030 90188-518",
+                    "Zimmer": "215/218",
+                    "Öffnungszeiten": {
+                        "Montag_bis_Freitag": "9 Uhr bis 13 Uhr",
+                        "Donnerstag": "15 Uhr bis 18 Uhr"
+                    },
+                    "Barrierefreier_Zugang": "Tegeler Weg 21",
+                    "Barrierefreie_Parkplätze": "Einfahrt Herschelstr. 19"
+                },
+                "Rechtsanwälte": {
+                    "Name": "Decker & Böse",
+                    "Adresse": "Claudiastraße 2, 51149 Köln",
+                    "Telefon_für_Rückfragen": {
+                        "Gerade_Endziffern": "030 90188-330",
+                        "Ungerade_Endziffern": "030 90188-514"
+                    }
+                },
+                "Bankverbindung": {
+                    "Bank": "Postbank Berlin",
+                    "Konto": "Konto der Kosteneinziehungsstelle der Justiz (KEJ)",
+                    "IBAN": "DE20 1001 0010 0000 3521 08",
+                    "BIC": "PBNKDEFF"
+                },
+                "Verkehrsanbindung": {
+                    "U-Bahn": "U-Bhf. Mierendorffplatz (U7), Jungfernheide (U7)",
+                    "S-Bahn": "S-Bhf. Jungfernheide (Ringbahn)",
+                    "Bus": "X9, X21, M21, 109, 126"
+                },
+                "Hinweise": {
+                    "Datenschutz": "Informationen zur Verarbeitung Ihrer personenbezogenen Daten finden Sie unter https://www.berlin.de/gerichte/landgericht/das-gericht/datenschutz/. Auf Anfrage übersenden wir diese Informationen auch in Papierform."
+                }
+            }
+        },
+        "Page 2": {
+            "Kooperation": {
+                "Unternehmen": "BLD",
+                "Partner": "DAC Beachcroft",
+                "Mitgliedschaft": "LEGALIGN GLOBAL"
+            },
+            "Unternehmensinformationen": {
+                "Name": "BLD Bach Langheid Dallmayr Rechtsanwälte Partnerschaftsgesellschaft mbB",
+                "Sitz": "Köln",
+                "Amtsgericht": "Essen",
+                "Registernummer": "PR 2237",
+                "Bankverbindungen": [
+                    {
+                        "Bank": "Postbank Köln",
+                        "IBAN": "DE54 3701 0050 0095 2415 07",
+                        "SWIFT-BIC": "PBNKDEFF370"
+                    },
+                    {
+                        "Bank": "Sparkasse Köln/Bonn",
+                        "IBAN": "DE77 3705 0198 0012 2920 33",
+                        "SWIFT-BIC": "COLSDE33XXX"
+                    }
+                ],
+                "Adresse": {
+                    "Straße": "Theodor-Heuss-Ring 13-15",
+                    "PLZ": "50668",
+                    "Stadt": "Köln"
+                }
+            },
+            "Kontaktinformationen": {
+                "Dr. Alexander Beyer": {
+                    "Position": "Rechtsanwalt/Partner"
+                },
+                "Linda Schneider": {
+                    "Position": "Rechtsanwältin",
+                    "Email": "linda.schneider@bld.de",
+                    "Sekretariat": {
+                        "Telefon": "+49 221 944027-355",
+                        "Fax": "+49 221 944027-428"
+                    }
+                },
+                "Telefonzentrale": "+49 221 944027-0"
+            },
+            "Gerichtsinformationen": {
+                "Gericht": "Landgericht Berlin",
+                "Adresse": {
+                    "Straße": "Tegeler Weg 17 - 21",
+                    "PLZ": "10589",
+                    "Stadt": "Berlin"
+                },
+                "Einreichung": "per beA"
+            },
+            "Fallinformationen": {
+                "Aktenzeichen": "23 O 25/23",
+                "Kläger": "Leppelt, J.",
+                "Beklagter": "Generali Deutschland Krankenversicherung AG",
+                "Gegnerische Kanzlei": "Anwaltskanzlei Decker & Böse, Köln",
+                "Fristverlängerung": {
+                    "Antrag": "Verlängerung der Frist zur Klageerwiderung",
+                    "Ursprüngliches Ablaufdatum": "25.05.2023",
+                    "Neues Ablaufdatum": "22.06.2023",
+                    "Begründung": "Bereits im Schriftsatz vom 13.04.2023 angegeben",
+                    "Termin": "Noch nicht bestimmt"
+                }
+            }
+        },
+        "Page 3": {
+            "Quelle": "bld.de",
+            "Seite": 2,
+            "Kooperation": {
+                "Partner": "DAC Beachcroft",
+                "Mitgliedschaft": "LEGALIGN GLOBAL"
+            },
+            "Unternehmen": {
+                "Name": "BLD Bach Langheid Dallmayr Rechtsanwälte Partnerschaftsgesellschaft mbB",
+                "Sitz": "Köln",
+                "Amtsgericht": "Essen",
+                "Registernummer": "PR 2237"
+            },
+            "Information": {
+                "Empfänger": "Prozessbevollmächtigte des Klägers",
+                "Thema": "beantragte Fristverlängerung",
+                "Datum": "heute"
+            },
+            "Kontakt": {
+                "Name": "Linda Schneider",
+                "Beruf": "Rechtsanwältin"
+            }
+        },
+        "Page 4": {
+            "Standorte": [
+                {
+                    "Stadt": "Köln",
+                    "Adresse": "Theodor-Heuss-Ring 13-15, 50668 Köln",
+                    "Telefon": "+49 221 944027-0",
+                    "Fax": "+49 221 944027-7",
+                    "Personen": [
+                        "Dr. Rainer Büsken",
+                        "Heinz Otto Höher",
+                        "Prof. Dr. Dirk-Carsten Günther",
+                        "Thomas Schwarz",
+                        "Michael-A. Ernst",
+                        "Stephan Hütt",
+                        "Anne Karen Reinhardt",
+                        "Dr. Christoph Krischer",
+                        "Dr. Joachim Grote",
+                        "Kirsten Konrad",
+                        "Ansgar Mertens",
+                        "Björn Seitz",
+                        "Dr. Andrea Nowak-Over",
+                        "Sabine Winkens",
+                        "Dr. Sven-Markus Thiel",
+                        "Holger Schacht",
+                        "Christina Eckes",
+                        "Jan Holger Göbel",
+                        "Dr. Udo Abel",
+                        "Christian Tomson, MBL",
+                        "Dr. Tobias Mergner",
+                        "Dr. Martin Alexander, LL.M.",
+                        "Dominique von Kölln",
+                        "Bastian Finkel",
+                        "Bettina Budach",
+                        "Bernd Schwarze",
+                        "Karsten Mühlhausen",
+                        "Thomas Bangen, LL.M.",
+                        "Britta Heinemann-Kreisig",
+                        "Tobias Matz",
+                        "Dr. Tobias Britz",
+                        "Sabine Harazim, LL.M.",
+                        "Dr. Alexander Beyer",
+                        "Susanne Dickel",
+                        "Dr. Martin Schaaf",
+                        "Dr. Simon Kubiak",
+                        "Cathrin Jakobs",
+                        "Florian Krapoth",
+                        "Michael Jakobs, LL.M.",
+                        "Ulrich Ruchatz, LL.M.",
+                        "Matthias Stößer, LL.M.",
+                        "Tim Werner",
+                        "Anne Middel",
+                        "Dr. Julia Achtmann",
+                        "Carsten Hösker, LL.M.",
+                        "Jan Kordes, LL.M.",
+                        "Katja Labusga, LL.M.",
+                        "Sandra Ochmann",
+                        "Dr. Franz König, LL.M.",
+                        "Irina Schmitz-Elvenich",
+                        "Julika Kuß",
+                        "Jennifer Karaismail",
+                        "Christiane Osterspey",
+                        "Judith Schöningh, LL.M.",
+                        "Dr. Martin Lomb, LL.M.",
+                        "Dr. Thorsten Süß",
+                        "Michael Potthast",
+                        "Anett Niebel, LL.M.",
+                        "Andrea Wieland",
+                        "Anna Kristina Pruß",
+                        "Eva Schönherr",
+                        "Dr. Jendrik Böhmer, LL.M.",
+                        "Klaus Bröcher",
+                        "Lilian Kastenholz",
+                        "Matthias Stutzinger",
+                        "Anna Theresa Patze",
+                        "Christian Backes",
+                        "Carla Albers",
+                        "Martin Berglar, LL.M.",
+                        "Kim Katharina Kierdorf",
+                        "Frederik Kleinherne",
+                        "Sabine Krapf",
+                        "Anna Orlowski",
+                        "Stefan Worbs",
+                        "Laura Noll",
+                        "Dr. Florian Höld",
+                        "Yvonne Waszick",
+                        "Fabian Triesch",
+                        "Evelyn Steinigen",
+                        "Clara Zöll",
+                        "Dr. Alexander Wahlers",
+                        "Dirk Hüwe",
+                        "Dr. Alexandra Kelker",
+                        "Alexandra Franzke",
+                        "Tamara Fabry",
+                        "Tobias Bliersbach",
+                        "Valentin Erler",
+                        "Florian Wegmann",
+                        "Linda Schneider",
+                        "Jens-Niklas Vogel",
+                        "Raphael Ulrich, Maître en droit, LL.B.",
+                        "Arndt Bröringmeyer",
+                        "Tim Brauer",
+                        "Sebastian Olschinka",
+                        "PD Dr. Dominik Schäfers, LL.M.",
+                        "Julia Lücker",
+                        "Hüseyin Bulut",
+                        "Christian Miebach",
+                        "Wolf Kindervater, LL.M.",
+                        "Lars Krohn, LL.M.",
+                        "Martin Grünnagel, LL.M.",
+                        "Vanessa Steven",
+                        "Timon Zander",
+                        "Stefan Langhanki",
+                        "Immanuel Drewes",
+                        "Florian Henn, LL.M.",
+                        "Robert Mielke",
+                        "Jan-Eric Dzulko",
+                        "Roderik Speich",
+                        "Leyli Soori",
+                        "Dr. Christoph Buchholz, LL.M.",
+                        "Frauke Bartels, Maître en droit, LL.B.",
+                        "Jonas Stanetzky",
+                        "Johanna Krause",
+                        "Rainer Clausena"
+                    ]
+                },
+                {
+                    "Stadt": "München",
+                    "Adresse": "Karlstraße 10, 80333 München",
+                    "Telefon": "+49 89 545877-0",
+                    "Fax": "+49 89 545877-77",
+                    "Personen": [
+                        "Dr. Reinhard Dallmayr",
+                        "Ulrich Lattermann",
+                        "Dr. Gerhard Küppersbusch",
+                        "Jochen Boettge",
+                        "Thomas Mittendorf",
+                        "Stefan Schriever",
+                        "Sibille Bucka",
+                        "Joachim Krane",
+                        "Friederike Schulze-Muth",
+                        "Sven Lehmann",
+                        "Sabine Rigl",
+                        "Raluca Grigore-Urban",
+                        "Dr. Gabriele Bögl",
+                        "Jennifer Moll",
+                        "Dr. Michael Ellerbeck",
+                        "Friederike de Biasi",
+                        "Dr. Alexander Bulach",
+                        "Julia Schön",
+                        "Davor Sadric",
+                        "Michael Rauscher",
+                        "Armin Seiler",
+                        "Hannah Ellsässer",
+                        "Maria Rastel",
+                        "Christoph Welcker",
+                        "Jan Binz",
+                        "Irina Locher",
+                        "Lisa Dreger",
+                        "Sabrina Burgfeld",
+                        "Christina Reiser",
+                        "Katrin Leser",
+                        "Stephanie Huber",
+                        "Karla Pietschner, Maître en droit"
+                    ]
+                },
+                {
+                    "Stadt": "Frankfurt",
+                    "Adresse": "Stephanstraße 3, 60313 Frankfurt",
+                    "Telefon": "+49 69 920740-0",
+                    "Fax": "+49 69 920740-40",
+                    "Personen": [
+                        "Dr. Wolfram Ellwanger",
+                        "Cornelius Maria Thora",
+                        "Oliver Tammer",
+                        "Dr. Michael Marx, LL.M.",
+                        "Alexander Scalidis",
+                        "Lisa-Maria Deter",
+                        "Caroline Gossé",
+                        "Katharina Victoria Kramer",
+                        "Karin Henke"
+                    ]
+                },
+                {
+                    "Stadt": "Berlin",
+                    "Adresse": "Kaiserin-Augusta-Allee 104-106, 10553 Berlin",
+                    "Telefon": "+49 30 886269-0",
+                    "Fax": "+49 30 886269-29",
+                    "Personen": [
+                        "Dr. Jens Muschner",
+                        "Oliver Kröger",
+                        "Dr. Corinna Carl",
+                        "Bettina Kurth",
+                        "Ümit Kaplan",
+                        "Anja Lippeck",
+                        "Runa Stopp",
+                        "Niels Danylak",
+                        "Artur Barański, LL.M.",
+                        "Andrea Martin, LL.M.",
+                        "Saskia Dornheim, LL.M.",
+                        "Wolfgang Bauer",
+                        "Christoph Hentze"
+                    ]
+                },
+                {
+                    "Stadt": "Karlsruhe",
+                    "Adresse": "Reinhold-Frank-Straße 58, 76133 Karlsruhe",
+                    "Telefon": "+49 721 869776-0",
+                    "Fax": "+49 721 869776-20",
+                    "Personen": [
+                        "Cornelius Maria Thora",
+                        "Friederike de Biasi",
+                        "Robert Binnewies",
+                        "Dorothea Bokelmann"
+                    ]
+                },
+                {
+                    "Stadt": "Dortmund",
+                    "Adresse": "Ruhrallee 9, 44139 Dortmund",
+                    "Telefon": "+49 231 997665-0",
+                    "Fax": "+49 231 997665-927",
+                    "Personen": [
+                        "Dr. Stefan Spielmann",
+                        "Marcel Hohagen, LL.M.",
+                        "Lutz Köther, LL.M.",
+                        "Burcu Dag"
+                    ]
+                }
+            ],
+            "Kooperation": {
+                "Partner": "Prof. Dr. Mathias Ulbrich, LL.M.",
+                "Adresse": "Goethestr. 72, 04827 Machern",
+                "Telefon": "+49 221 944027-0",
+                "Fax": "+49 221 944027-7"
+            },
+            "Hauptsitze": [
+                {
+                    "Adresse": "Sandstraße 17-23, 23552 Lübeck"
+                },
+                {
+                    "Adresse": "Stephanstraße 3, 60313 Frankfurt"
+                },
+                {
+                    "Adresse": "Karlstraße 10, 80333 München"
+                }
+            ],
+            "Mitgliedschaften": [
+                "www.legalign.global"
+            ]
+        },
+        "Page 5": {
+            "Prüfvermerk": {
+                "Datum": "25.05.2023",
+                "Uhrzeit": "16:14:00"
+            },
+            "Nachricht": {
+                "Versandart": "EGVP",
+                "Eingangszeitpunkt": "25.05.2023, 16:10:36",
+                "Absender": {
+                    "Name": "Andrea Nowak-Over",
+                    "Nutzer-ID": "DE.BRAK.0cdc8931-1d53-4059-b4d7-cbdcde0a1fc0.da10",
+                    "Aktenzeichen": "25234/23"
+                },
+                "Empfänger": {
+                    "Name": "Landgericht Berlin Zivilsachen",
+                    "Aktenzeichen": "23 O 25/23"
+                },
+                "Betreff": "Generali KV ./. Leppelt, J.",
+                "Nachrichtenkennzeichen": "itdzp_168502383644437f05b48-ccd2-4740-a084-ef2df9c77429"
+            },
+            "Dokumente": [
+                {
+                    "Dateiname": "an_LG_FVA_bis_zum_22-06-2023.pdf",
+                    "Format": "pdf",
+                    "Qualifiziert signiert": "ja",
+                    "Signiert durch": "Dr. Alexander Beyer",
+                    "Signatur-ID": "168470769601701844681889 428677923178406",
+                    "Signaturdatum": "25.05.2023, 15:22:26",
+                    "Prüfergebnis": {
+                        "Gültigkeit": "√",
+                        "Integrität": "√"
+                    }
+                },
+                {
+                    "Dateiname": "xjustiz_nachricht.xml",
+                    "Format": "xml",
+                    "Qualifiziert signiert": "nein"
+                }
+            ]
+        }
+    },
+    "Fristverlängerungsantrag der Gegenseite3": {
+        "Page 1": {
+            "Informationen": {
+                "Datenschutz": "www.justiz.nrw/datenschutz/rechtssachen"
+            },
+            "Gericht": {
+                "Name": "Landgericht Köln",
+                "Adresse": {
+                    "Straße": "Luxemburger Straße 101",
+                    "PLZ_Ort": "50939 Köln"
+                },
+                "Kontakt": {
+                    "Telefon": "0221/477-0",
+                    "Telefax": "0221/477-3333",
+                    "Website": "www.lg-koeln.nrw.de"
+                },
+                "Sprechzeiten": {
+                    "Montag_bis_Donnerstag": "08:30 Uhr bis 14:30 Uhr",
+                    "Freitag": "08:30 Uhr bis 14:00 Uhr"
+                },
+                "Nachtbriefkasten": "Luxemburger Straße 101, 50939 Köln",
+                "Zahlstelle": {
+                    "Bank": "Deutsche Bundesbank Filiale Köln",
+                    "IBAN": "DE87 3700 0000 0037 0015 12"
+                },
+                "Verkehrsanbindung": {
+                    "KVB_Linie": "18 (Haltestelle Weißhausstraße)",
+                    "Bus_Linie": "142 (Haltestelle Justizzentrum)"
+                }
+            },
+            "Rechtsanwälte": {
+                "Name": "Decker & Böse Rechtsanwalts-GmbH",
+                "Adresse": {
+                    "Straße": "Claudiastraße 2",
+                    "PLZ_Ort": "51149 Köln"
+                }
+            },
+            "Rechtsstreit": {
+                "Parteien": "ÖRAG Rechtsschutzversicherungs-AG gegen LegalTec GmbH u.a.",
+                "Aktenzeichen": "30 O 571/19",
+                "Ihr_Zeichen": "13986-19-Er-R",
+                "Datum": "08.05.2023",
+                "Bearbeiter": {
+                    "Name": "Frau Huppertz",
+                    "Durchwahl": "0221/477-2603"
+                },
+                "Anmerkung": "automatisiert erstellt, ohne Unterschrift gültig"
+            }
+        },
+        "Page 2": {
+            "kanzlei": {
+                "name": "F.E.L.S Rechtsanwälte PartG mbB",
+                "adresse": {
+                    "hauptsitz": {
+                        "straße": "Löhestraße 11/ Rathenaustraße 30",
+                        "stadt": "Bayreuth",
+                        "postleitzahl": "95444",
+                        "telefon": "0921/7566-0",
+                        "telefax": "0921/7566-100"
+                    },
+                    "zweigniederlassungen": [
+                        {
+                            "stadt": "Weiden",
+                            "straße": "Max-Reger-Straße 16",
+                            "postleitzahl": "92637",
+                            "telefon": "0961/48239-0",
+                            "telefax": "0961/48239-20"
+                        },
+                        {
+                            "stadt": "Kulmbach",
+                            "straße": "Am Eulenhof 14",
+                            "postleitzahl": "95326",
+                            "telefon": "0921/7566-700"
+                        }
+                    ]
+                },
+                "kontakt": {
+                    "webseite": "www.fe-ls.de",
+                    "postfach": "Postfach 11 02 41 · D-95421 Bayreuth",
+                    "ust_id": "DE 132 355 016",
+                    "registergericht": "Bayreuth",
+                    "registernummer": "PR62"
+                },
+                "bankverbindungen": [
+                    {
+                        "bank": "HypoVereinsbank",
+                        "iban": "DE66 7732 0072 0024 9528 00",
+                        "swift_bic": "HYVEDEMM412"
+                    },
+                    {
+                        "bank": "Sparkasse Bayreuth",
+                        "iban": "DE19 7735 0110 0009 0090 93",
+                        "swift_bic": "BYLADEM1SBT"
+                    },
+                    {
+                        "bank": "Commerzbank Bayreuth",
+                        "iban": "DE36 7734 0076 0139 0392 00",
+                        "swift_bic": "COBADEFF773"
+                    },
+                    {
+                        "bank": "Sparkasse Bayreuth – Fremdgeldkonto",
+                        "iban": "DE51 7735 0110 0038 0775 74",
+                        "swift_bic": "BYLADEM1SBT"
+                    }
+                ],
+                "anwälte": [
+                    {
+                        "name": "RA Dr. iur. Mathias Fleischmann",
+                        "fachgebiete": [
+                            "Steuerrecht",
+                            "Handels- und Gesellschaftsrecht",
+                            "Internationales Wirtschaftsrecht"
+                        ]
+                    },
+                    {
+                        "name": "RA Horst Steier",
+                        "fachgebiete": [
+                            "Bau- und Architektenrecht",
+                            "Medizinrecht"
+                        ]
+                    },
+                    {
+                        "name": "RA Dr. iur. Uwe Scheder",
+                        "fachgebiete": [
+                            "Arbeitsrecht",
+                            "Handels- und Gesellschaftsrecht"
+                        ]
+                    },
+                    {
+                        "name": "RA Dr. iur. Thomas Mronz",
+                        "fachgebiete": [
+                            "Bau- und Architektenrecht",
+                            "Erbrecht"
+                        ]
+                    },
+                    {
+                        "name": "RA Dr. rer. pol. Tom F. Petrick",
+                        "fachgebiete": [
+                            "Steuerrecht",
+                            "Verkehrsrecht"
+                        ]
+                    },
+                    {
+                        "name": "StB Marc M. Heiligmann",
+                        "titel": "Dipl.-Kaufmann"
+                    },
+                    {
+                        "name": "RA Karl-Friedrich Hacker"
+                    },
+                    {
+                        "name": "RAin Dr. iur. Monika Görtz-Leible",
+                        "fachgebiete": [
+                            "Familienrecht"
+                        ]
+                    },
+                    {
+                        "name": "RA Michael Schädlich",
+                        "fachgebiete": [
+                            "Familienrecht",
+                            "Miet- und Wohnungseigentumsrecht"
+                        ]
+                    },
+                    {
+                        "name": "RA Oliver Schuster",
+                        "fachgebiete": [
+                            "Internationales Wirtschaftsrecht"
+                        ]
+                    },
+                    {
+                        "name": "RA Ulrich Eichbaum",
+                        "fachgebiete": [
+                            "Verkehrsrecht"
+                        ]
+                    },
+                    {
+                        "name": "RA Roman Nolte",
+                        "fachgebiete": [
+                            "Verkehrsrecht"
+                        ]
+                    },
+                    {
+                        "name": "RA Dr. iur. Tobias Liebau",
+                        "fachgebiete": [
+                            "Strafrecht"
+                        ]
+                    },
+                    {
+                        "name": "StBin Martina Fuchs"
+                    },
+                    {
+                        "name": "RA Christian Becker"
+                    },
+                    {
+                        "name": "StB Sebastian Morgenstern",
+                        "titel": "Dipl.–Kaufmann (FH)",
+                        "fachberater": "Internationales Steuerrecht"
+                    },
+                    {
+                        "name": "RAin Melanie Brandt",
+                        "fachgebiete": [
+                            "Verkehrsrecht"
+                        ]
+                    },
+                    {
+                        "name": "RA Florian Dorth",
+                        "fachgebiete": [
+                            "Arbeitsrecht"
+                        ]
+                    },
+                    {
+                        "name": "RA Daniel Kaus"
+                    },
+                    {
+                        "name": "RA Marcel Faltenbacher"
+                    },
+                    {
+                        "name": "RAin Alena Alekseeva"
+                    },
+                    {
+                        "name": "RA Roman Henn"
+                    },
+                    {
+                        "name": "RA Christopher Süss"
+                    },
+                    {
+                        "name": "RA David Rudin"
+                    },
+                    {
+                        "name": "RA Tobias Obwandner"
+                    },
+                    {
+                        "name": "RA Thomas Potzel"
+                    },
+                    {
+                        "name": "RAin Christina Jahnel"
+                    },
+                    {
+                        "name": "RA Christian Ebert",
+                        "fachgebiete": [
+                            "Bau- und Architektenrecht",
+                            "Miet- und Wohnungseigentumsrecht"
+                        ]
+                    },
+                    {
+                        "name": "RA Thorge Höhre"
+                    },
+                    {
+                        "name": "RA Jörg Anton Täuber",
+                        "fachgebiete": [
+                            "Versicherungsrecht",
+                            "Miet- und Wohnungseigentumsrecht"
+                        ]
+                    },
+                    {
+                        "name": "RA Michael Fiedler"
+                    }
+                ]
+            },
+            "rechtsstreit": {
+                "bearbeiter": "RA Dr. Fleischmann",
+                "email": "ra.dr.fleischmann@fe-ls.de",
+                "durchwahl": "260",
+                "direkt_fax": "120",
+                "datum": "04.05.2023",
+                "unser_zeichen": "06126F19/F/kei",
+                "parteien": {
+                    "kläger": "ÖRAG Rechtsschutzversicherungs-AG",
+                    "beklagter": "DECKER & BÖSE Rechtsanwälte"
+                },
+                "aktenzeichen": "30 O 571/2019",
+                "antrag": {
+                    "beschreibung": "Fristverlängerung zur Stellungnahme",
+                    "neue_friste": "19. Mai 2023",
+                    "begründung": "Aufgrund einer Vielzahl zu erledigender Fristsachen und wahrzunehmender Termine ist dem Unterzeichner eine sachgerechte Stellungnahme innerhalb der in der prozessleitenden Verfügung gesetzten Frist nicht möglich."
+                }
+            }
+        },
+        "Page 3": {
+            "Dokument": {
+                "Seite": 2,
+                "Antrag": {
+                    "Bitte": "Wir bitten daher höflich, unserem Antrag stattzugeben."
+                },
+                "Signatur": {
+                    "Art": "qualifiziert elektronisch signiert",
+                    "Name": "Dr. M. Fleischmann",
+                    "Beruf": "Rechtsanwalt"
+                }
+            }
+        },
+        "Page 4": {
+            "Vertrauenswürdiger_Herkunftsnachweis": {
+                "Absender": {
+                    "Name": "Mathias Fleischmann",
+                    "Adresse": {
+                        "Straße": "Löhestr. 11",
+                        "PLZ_Ort": "95444 Bayreuth"
+                    }
+                },
+                "Nachrichtenkanal": "kein sicherer Übermittlungsweg",
+                "Dokumente": [
+                    {
+                        "Dateiname": "Fristverlängerungsgesuch_a-_lg_köln.PDF",
+                        "Hashwertprüfung": "erfolgreich"
+                    },
+                    {
+                        "Dateiname": "Fristverlängerungsgesuch_a-_lg_köln.PDF.p7s",
+                        "Hashwertprüfung": "erfolgreich"
+                    },
+                    {
+                        "Dateiname": "xjustiz_nachricht.xml",
+                        "Hashwertprüfung": "erfolgreich"
+                    }
+                ]
+            }
+        },
+        "Page 5": {
+            "Prüfvermerk": {
+                "Datum": "04.05.2023",
+                "Uhrzeit": "10:01:30"
+            },
+            "Nachricht": {
+                "Versandart": "EGVP",
+                "Eingangszeitpunkt": "04.05.2023, 09:58:41",
+                "Absender": {
+                    "Name": "Mathias Fleischmann",
+                    "Nutzer-ID": "DE.BRAK.c2c3be29-0f6a-465b-9b68-b7edce4c5143.79d6",
+                    "Aktenzeichen": "06126F19"
+                },
+                "Empfänger": {
+                    "Name": "Landgericht Köln",
+                    "Aktenzeichen": "30 O 571/2019"
+                },
+                "Betreff": "Fristverlängerungsgesuch",
+                "Nachrichtenkennzeichen": "EGVP_GP116831871209123303079100678754606"
+            },
+            "Dokumente": [
+                {
+                    "Dateiname": "Fristverlängerungsgesuch_a-_lg_koeln.PDF",
+                    "Format": "PDF",
+                    "Qualifiziert_signiert": "ja",
+                    "Signiert_durch": "Mathias Fleischmann",
+                    "Berufsbezogenes_Attribut": "7941020614279526554",
+                    "Signaturdatum": "04.05.2023, 09:56:19",
+                    "Prüfergebnis": {
+                        "Gültigkeit": true,
+                        "Integrität": true
+                    }
+                },
+                {
+                    "Dateiname": "xjustiz_nachricht.xml",
+                    "Format": "xml",
+                    "Qualifiziert_signiert": "nein"
+                }
+            ]
+        },
+        "Page 6": {
+            "Übermittlung": {
+                "Schriftgutobjekte": [
+                    {
+                        "Nummer": 1,
+                        "Typ": "Andere / Sonstige",
+                        "Anzeigename": "Fristverlängerungsgesuch_a-_lg_köln.PDF",
+                        "EEB_erforderlich": "Nein"
+                    }
+                ],
+                "Geschäftszeichen": "06126F19",
+                "Referenznummer": "DE.BRAK.c2c3be29-0f6a-465b-9b68-b7edce4c5143.79d6",
+                "Empfänger": "Landgericht Köln",
+                "Erstellungszeitpunkt": "04.05.2023",
+                "In_Sachen": null
+            }
+        }
+    }
+}

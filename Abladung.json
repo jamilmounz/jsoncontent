@@ -1,0 +1,485 @@
+{
+    "Abladung 1": {
+        "Page 1": {
+            "Informationen": {
+                "Datenschutz": "www.justiz.nrw/datenschutz/rechtssachen"
+            },
+            "Gericht": {
+                "Name": "Oberlandesgericht Hamm",
+                "Adresse": {
+                    "Straße": "Heßlerstr. 53",
+                    "PLZ": "59065",
+                    "Stadt": "Hamm"
+                },
+                "Kontakt": {
+                    "Telefon": "02381-272-0",
+                    "Telefax": "02381/272-518",
+                    "Nachtbriefkasten": "Heßlerstr. 53, 59065 Hamm",
+                    "Konten": {
+                        "IBAN": "DE57440000000041001510"
+                    }
+                },
+                "Verkehrsanbindung": "ab Hbf. Linie 5, 6 oder 13 bis Haltestelle Widumstr./OLG"
+            },
+            "Rechtsanwälte": {
+                "Name": "Decker & Böse",
+                "Adresse": {
+                    "Straße": "Claudiastraße 2",
+                    "PLZ": "51149",
+                    "Stadt": "Köln"
+                }
+            },
+            "Rechtsstreit": {
+                "Parteien": {
+                    "Kläger": "Volkswagen AG",
+                    "Beklagter": "Rensch"
+                },
+                "Termin": {
+                    "Datum": "30.06.2023",
+                    "Status": "nicht statt",
+                    "Grund der Aufhebung": "Klagerücknahme"
+                },
+                "Aktenzeichen": "I-30 U 158/22",
+                "Ihr Zeichen": "26493-20",
+                "Bearbeiter": {
+                    "Name": "Frau Rathenow",
+                    "Durchwahl": "02381-272-2201"
+                },
+                "Datum der Mitteilung": "14.02.2023",
+                "Verfasser": {
+                    "Name": "Böttcher",
+                    "Position": "Justizbeschäftigte",
+                    "Hinweis": "automatisiert erstellt, ohne Unterschrift gültig"
+                }
+            }
+        },
+        "Page 2": {
+            "Dokument": {
+                "Titel": "Beglaubigte Abschrift",
+                "Aktenzeichen": "I-30 U 158/22",
+                "Verfügung": {
+                    "Rechtsstreit": {
+                        "Kläger": "Volkswagen AG",
+                        "Beklagter": "Rensch"
+                    },
+                    "Termin": {
+                        "Datum": "30.06.2023",
+                        "Art": "Verhandlungstermin",
+                        "Status": "aufgehoben",
+                        "Grund": "Klagerücknahme"
+                    },
+                    "Datum_der_Verfügung": "14.02.2023",
+                    "Senat": "30. Zivilsenat",
+                    "Vorsitzender": {
+                        "Name": "Dr. Haddenhorst",
+                        "Titel": "Richter am Oberlandesgericht",
+                        "Vertretung": "In Vertretung"
+                    }
+                },
+                "Beglaubigung": {
+                    "Urkundsbeamter": "Urkundsbeamter/in der Geschäftsstelle",
+                    "Gericht": "Oberlandesgericht Hamm"
+                }
+            }
+        },
+        "Page 3": {
+            "Aktenzeichen": "I-30 U 158/22",
+            "Verfügung": {
+                "Rechtsstreit": {
+                    "Kläger": "Volkswagen AG",
+                    "Beklagter": "Rensch"
+                },
+                "Termin": {
+                    "Datum": "30.06.2023",
+                    "Art": "Verhandlungstermin",
+                    "Status": "aufgehoben",
+                    "Grund": "Klagerücknahme"
+                },
+                "Datum_der_Verfügung": "14.02.2023",
+                "Zivilsenat": "30. Zivilsenat",
+                "Vorsitzender": {
+                    "Name": "Dr. Haddenhorst",
+                    "Titel": "Richter am Oberlandesgericht",
+                    "Vertretung": "In Vertretung"
+                }
+            }
+        },
+        "Page 4": {
+            "Dokument": {
+                "Titel": "Informationsblatt zum elektronischen Empfangsbekenntnis",
+                "Zielgruppe": [
+                    "Rechtsanwälte",
+                    "Notare",
+                    "Gerichtsvollzieher",
+                    "Behörden",
+                    "Körperschaften oder Anstalten des öffentlichen Rechts"
+                ],
+                "Einleitung": "Der elektronische Rechtsverkehr ist seit dem 1. Januar 2018 flächendeckend eröffnet. Um die elektronische Kommunikation weiter zu fördern, versenden seit dem 1. Januar 2022 nunmehr alle nordrhein-westfälischen Gerichte auch über die EGVP-Infrastruktur.",
+                "Versand": {
+                    "Art": "Förmlicher elektronischer Versand",
+                    "Empfänger": [
+                        "Rechtsanwälte",
+                        "Notare",
+                        "Gerichtsvollzieher",
+                        "Behörden",
+                        "Juristische Personen des öffentlichen Rechts"
+                    ],
+                    "Bedingung": "Gegen ein elektronisches Empfangsbekenntnis (eEB)"
+                },
+                "Verpflichtung": {
+                    "Gesetzliche Grundlage": [
+                        "§ 173 Abs. 2, 3 ZPO",
+                        "§ 113 FamFG",
+                        "§ 37 Abs. 1 StPO",
+                        "§ 31a Abs. 6 BRAO",
+                        "§ 14 BORA",
+                        "§ 78n BNotO"
+                    ],
+                    "Anforderung": "Verwendung des strukturierten, maschinenlesbaren Datensatzes bei Rücksendung"
+                },
+                "Konsequenzen": "Erheblicher Mehraufwand, vermeidbare Kosten und Verfahrensverzögerungen bei Nichtverwendung des Datensatzes",
+                "Hinweise": "Auf Seite 2 dieses Informationsblatts finden Sie Hinweise zur Abgabe des eEB über das besondere elektronische Anwaltspostfach (beA), das besondere elektronische Notarpostfach (beN) sowie das besondere elektronische Behördenpostfach (beBPo).",
+                "Aufruf": "Bitte helfen Sie uns, die elektronische Kommunikation weiter zu etablieren.",
+                "Dank": "Vielen Dank!"
+            }
+        },
+        "Page 5": {
+            "Dokument": {
+                "Titel": "Hinweise zum elektronischen Empfangsbekenntnis (eEB)",
+                "Beschreibung": "Anleitung zur Rücksendung des elektronischen Empfangsbekenntnisses über verschiedene elektronische Postfächer.",
+                "Postfächer": [
+                    "besonderes elektronisches Anwaltspostfach (beA)",
+                    "besonderes elektronisches Notarpostfach (beN)",
+                    "besonderes elektronisches Behördenpostfach (beBPo)"
+                ],
+                "Prozess": {
+                    "Anforderung": {
+                        "Beschreibung": "Wenn das Gericht ein eEB anfordert, wird ein Hinweis in der Nachricht angezeigt.",
+                        "Position": "oberhalb des Betreffs",
+                        "Hinweis": "Empfangsbekenntnis angefordert (1)"
+                    },
+                    "Anzeigen": {
+                        "Beschreibung": "Mit der Schaltfläche Anzeigen (2) kann der Inhalt des eEB eingesehen werden.",
+                        "Inhalt": "technischer Datensatz",
+                        "Hinweis": "Keine gesonderte PDF-Datei wird versendet."
+                    },
+                    "Abgabe": {
+                        "Beschreibung": "Mit der Schaltfläche Abgabe erstellen (3) wird die Rückantwort für das Gericht erzeugt.",
+                        "Aktion": "Eingabe des Zustellungsdatums und automatisierte elektronische Rücksendung",
+                        "Ergebnis": "Das Gericht erhält den Datensatz zur Weiterverarbeitung innerhalb weniger Minuten."
+                    },
+                    "Ablehnung": {
+                        "Beschreibung": "Sollten Sie das eEB nicht abgeben wollen, verwenden Sie die Schaltfläche Ablehnung erstellen (4).",
+                        "Aktion": "Begründung der Ablehnung erforderlich"
+                    }
+                }
+            }
+        }
+    },
+    "Abladung 2": {
+        "Page 1": {
+            "Dokument": {
+                "Ihr_Zeichen": "10551-19-Kat-VW",
+                "Aktenzeichen": "1 O 176/20",
+                "Datum": "19.04.2023",
+                "Betreff": {
+                    "Kläger": "Wieling, A.",
+                    "Beklagter": "Volkswagen AG",
+                    "Gegenstand": "Schadensersatz"
+                },
+                "Mitteilung": {
+                    "Termin": {
+                        "Datum": "27.04.2023",
+                        "Uhrzeit": "12:00",
+                        "Status": "aufgehoben",
+                        "Grund": "Von Amts wegen",
+                        "Anmerkung": "Sie brauchen daher zu diesem Termin nicht zu erscheinen."
+                    }
+                },
+                "Absender": {
+                    "Name": "Rodig",
+                    "Position": "Justizhauptsekretärin",
+                    "Gericht": {
+                        "Name": "Landgericht Cottbus",
+                        "Adresse": "Gerichtsstraße 3 - 4, 03046 Cottbus",
+                        "Abteilung": "1. Zivilkammer",
+                        "Kontakt": {
+                            "Telefon": "0355 6371-0",
+                            "Telefax": "0355 6371-289",
+                            "Auskunft": "Frau Rodig",
+                            "Durchwahl": "0355 6371-243",
+                            "Sprechzeiten": {
+                                "Montag_Donnerstag": "09:00 - 15:00 Uhr",
+                                "Freitag": "09:00 - 14:00 Uhr"
+                            }
+                        },
+                        "Verkehrsanbindung": "Straßenbahnlinie 2, Haltestelle 'Altmarkt'",
+                        "Internet": "www.lg-cottbus-brandenburg.de"
+                    }
+                },
+                "Empfänger": {
+                    "Name": "Decker & Böse Rechtsanwaltsgesellschaft mbH",
+                    "Adresse": "Claudiastraße 2, 51149 Köln"
+                },
+                "Datenschutzhinweis": "Durch das Gericht werden die für die Bearbeitung des gerichtlichen Verfahrens erforderlichen Daten elektronisch gespeichert und verarbeitet. Weitere Informationen können Sie der Internetpräsentation des Gerichts entnehmen.",
+                "Unterschrift": {
+                    "Name": "Rodig",
+                    "Datum": "19.04.2023",
+                    "Uhrzeit": "08:53"
+                }
+            }
+        },
+        "Page 2": {
+            "Gericht": {
+                "Name": "Landgericht Cottbus",
+                "Ort": "Cottbus",
+                "Datum": "18.04.2023",
+                "Aktenzeichen": "1 O 176/20"
+            },
+            "Verfügung": {
+                "Fall": {
+                    "Kläger": "Wieling, A.",
+                    "Beklagter": "Volkswagen AG"
+                },
+                "Termin": {
+                    "Datum": "27.04.2023",
+                    "Uhrzeit": "12:00 Uhr",
+                    "Ort": {
+                        "Sitzungssaal": "203 H2",
+                        "Etage": "EG",
+                        "Gebäude": "Haus 2",
+                        "Zugang": "Amtsgericht Cottbus, Gerichtsplatz 2",
+                        "Adresse": "Gerichtsstraße 3 - 4"
+                    },
+                    "Status": "aufgehoben",
+                    "Grund": "Von Amts wegen"
+                },
+                "Hinweis": {
+                    "EuGH_Entscheidung": {
+                        "Datum": "21.03.2023",
+                        "Aktenzeichen": "C-100/21"
+                    },
+                    "BGH_Verfahren": {
+                        "Aktenzeichen": "VIa ZR 335/21",
+                        "Letzter_Termin": "08.05.2023"
+                    },
+                    "Erklärung": "Unklarheit über die Übertragung der EuGH-Entscheidung auf das deutsche Recht. Der Bundesgerichtshof muss die rechtlichen Maßstäbe konkretisieren."
+                },
+                "Zukünftige_Schritte": "Sobald der BGH sich zur aktuellen Rechtsprechung des EuGH geäußert hat, wird weiteres von Amts wegen erfolgen. Die Parteien erhalten dann weitere Gelegenheit zur Stellungnahme und es wird neu terminiert."
+            }
+        },
+        "Page 3": {
+            "Dokument": {
+                "Unterschrieben_von": "Rodig",
+                "Datum": "19.04.2023",
+                "Uhrzeit": "08:53"
+            },
+            "Beglaubigung": {
+                "Richter": "Dr. Greis",
+                "Justizhauptsekretärin": "Rodig"
+            }
+        }
+    },
+    "Abladung 3": {
+        "Page 1": {
+            "Informationen": {
+                "Datenschutz": "www.justiz.nrw/datenschutz/rechtssachen"
+            },
+            "Gericht": {
+                "Name": "Landgericht Köln",
+                "Adresse": "50922 Köln"
+            },
+            "Rechtsanwälte": {
+                "Name": "Decker & Böse Rechtsanwalts-GmbH",
+                "Adresse": "Claudiastraße 2, 51149 Köln"
+            },
+            "Rechtsstreit": {
+                "Parteien": [
+                    "Allianz Rechtsschutz-Service GmbH",
+                    "Decker & Böse Rechtsanwaltsgesellschaft GmbH"
+                ],
+                "Termin": {
+                    "Datum": "21.08.2023",
+                    "Status": "abgesagt",
+                    "Grund": "Antrag nach § 227 III ZPO"
+                },
+                "Neuer Termin": "Wird rechtzeitig mitgeteilt"
+            },
+            "Kontakt": {
+                "Bearbeiter": {
+                    "Name": "Frau Michels",
+                    "Durchwahl": "0221/477-2935"
+                },
+                "Anschrift": "Luxemburger Straße 101, 50939 Köln",
+                "Sprechzeiten": {
+                    "Montag bis Donnerstag": "08:30 Uhr bis 14:30 Uhr",
+                    "Freitag": "08:30 Uhr bis 14:00 Uhr"
+                },
+                "Telefon": "0221/477-0",
+                "Telefax": "0221/477-3333",
+                "Website": "www.lg-koeln.nrw.de",
+                "Nachtbriefkasten": "Luxemburger Straße 101, 50939 Köln"
+            },
+            "Zahlstelle": {
+                "Amtsgericht Köln": {
+                    "Bank": "Deutsche Bundesbank Filiale Köln",
+                    "IBAN": "DE87 3700 0000 0037 0015 12"
+                }
+            },
+            "Verkehrsanbindung": {
+                "KVB-Linie": "18 (Haltestelle Weißhausstraße)",
+                "Bus-Linie": "142 (Haltestelle Justizzentrum)"
+            },
+            "Datum": "05.04.2023",
+            "Aktenzeichen": "26 O 235/22",
+            "Ihr Zeichen": "71594-22",
+            "Erstellt von": "Michels",
+            "Hinweis": "Automatisiert erstellt, ohne Unterschrift gültig"
+        },
+        "Page 2": {
+            "Aktenzeichen": "26 O 235/22",
+            "Verfahren": {
+                "Kläger": "Allianz Rechtsschutz-Service GmbH",
+                "Beklagter": "Decker & Böse Rechtsanwaltsgesellschaft GmbH"
+            },
+            "Verfügung": {
+                "Termin": {
+                    "Datum": "21.08.2023",
+                    "Art": [
+                        "Gütetermin",
+                        "Verhandlungstermin",
+                        "Termin zur Beweisaufnahme"
+                    ],
+                    "Status": "aufgehoben",
+                    "Grund": "Antrag nach § 227 III ZPO"
+                },
+                "Neuer Termin": "wird von Amts wegen bestimmt"
+            },
+            "Gericht": {
+                "Name": "Landgericht Köln",
+                "Kammer": "26. Zivilkammer",
+                "Richter": {
+                    "Name": "Knechtel",
+                    "Position": "Vorsitzender Richter am Landgericht",
+                    "Funktion": "Einzelrichter"
+                }
+            },
+            "Datum der Verfügung": "05.04.2023",
+            "Beglaubigung": {
+                "Status": "Beglaubigt",
+                "Urkundsbeamter": "Urkundsbeamter/in der Geschäftsstelle"
+            }
+        },
+        "Page 3": {
+            "Aktenzeichen": "26 O 235/22",
+            "Verfahren": {
+                "Kläger": "Allianz Rechtsschutz-Service GmbH",
+                "Beklagter": "Decker & Böse Rechtsanwaltsgesellschaft GmbH"
+            },
+            "Termine": {
+                "ursprünglicher_Termin": "21.08.2023",
+                "Art_des_Termins": [
+                    "Gütetermin",
+                    "Verhandlungstermin",
+                    "Termin zur Beweisaufnahme"
+                ],
+                "Aufhebung_Grund": "Antrag nach § 227 III ZPO",
+                "neuer_Termin": "wird von Amts wegen bestimmt"
+            },
+            "Gericht": {
+                "Ort": "Köln",
+                "Datum": "05.04.2023",
+                "Kammer": "26. Zivilkammer",
+                "Richter": {
+                    "Name": "Knechtel",
+                    "Position": "Vorsitzender Richter am Landgericht",
+                    "Funktion": "Einzelrichter"
+                }
+            }
+        },
+        "Page 4": {
+            "Dokument": {
+                "Titel": "Informationsblatt zum elektronischen Empfangsbekenntnis",
+                "Zielgruppe": [
+                    "Rechtsanwälte",
+                    "Notare",
+                    "Gerichtsvollzieher",
+                    "Behörden",
+                    "Körperschaften oder Anstalten des öffentlichen Rechts"
+                ],
+                "Einführung": {
+                    "Datum": "1. Januar 2018",
+                    "Beschreibung": "Der elektronische Rechtsverkehr ist flächendeckend eröffnet."
+                },
+                "Aktualisierung": {
+                    "Datum": "1. Januar 2022",
+                    "Beschreibung": "Alle nordrhein-westfälischen Gerichte versenden über die EGVP-Infrastruktur."
+                },
+                "Versand": {
+                    "Art": "Förmlicher elektronischer Versand",
+                    "Empfänger": [
+                        "Rechtsanwälte",
+                        "Notare",
+                        "Gerichtsvollzieher",
+                        "Behörden",
+                        "Juristische Personen des öffentlichen Rechts"
+                    ],
+                    "Bedingung": "Gegen ein elektronisches Empfangsbekenntnis (eEB)"
+                },
+                "Gesetzliche Verpflichtung": {
+                    "Beschreibung": "Verwendung des strukturierten, maschinenlesbaren Datensatzes bei Rücksendung des eEB",
+                    "Rechtsgrundlagen": [
+                        "§ 173 Abs. 2, 3 ZPO",
+                        "§ 113 FamFG",
+                        "§ 37 Abs. 1 StPO",
+                        "§ 31a Abs. 6 BRAO",
+                        "§ 14 BORA",
+                        "§ 78n BNotO"
+                    ],
+                    "Konsequenzen": "Erheblicher Mehraufwand, vermeidbare Kosten, Verfahrensverzögerungen"
+                },
+                "Hinweise": {
+                    "Seite": 2,
+                    "Beschreibung": "Abgabe des eEB über das besondere elektronische Anwaltspostfach (beA), das besondere elektronische Notarpostfach (beN) sowie das besondere elektronische Behördenpostfach (beBPo)"
+                },
+                "Aufruf": "Bitte helfen Sie uns, die elektronische Kommunikation weiter zu etablieren.",
+                "Dank": "Vielen Dank!"
+            }
+        },
+        "Page 5": {
+            "Dokument": {
+                "Titel": "Hinweise zum elektronischen Empfangsbekenntnis (eEB)",
+                "Beschreibung": "Anleitung zur Rücksendung des elektronischen Empfangsbekenntnisses über verschiedene elektronische Postfächer.",
+                "Postfächer": [
+                    "besonderes elektronisches Anwaltspostfach (beA)",
+                    "besonderes elektronisches Notarpostfach (beN)",
+                    "besonderes elektronisches Behördenpostfach (beBPo)"
+                ],
+                "Prozess": {
+                    "Anforderung": {
+                        "Beschreibung": "Wenn das Gericht ein eEB anfordert, wird in der geöffneten Nachricht oberhalb des Betreffs der Hinweis 'Empfangsbekenntnis angefordert' eingeblendet.",
+                        "Schaltfläche": {
+                            "Name": "Anzeigen",
+                            "Funktion": "Inhalt des eEB einsehen, wobei nur ein technischer Datensatz angezeigt wird."
+                        }
+                    },
+                    "Rückantwort": {
+                        "Beschreibung": "Erzeugung der Rückantwort für das Gericht.",
+                        "Schaltfläche": {
+                            "Name": "Abgabe erstellen",
+                            "Funktion": "Rückantwort erzeugen und nach Eingabe des Zustellungsdatums automatisiert elektronisch zurücksenden."
+                        },
+                        "Verarbeitung": "Das Gericht erhält den Datensatz innerhalb weniger Minuten zur Weiterverarbeitung."
+                    },
+                    "Ablehnung": {
+                        "Beschreibung": "Verfahren zur Ablehnung der Abgabe des eEB.",
+                        "Schaltfläche": {
+                            "Name": "Ablehnung erstellen",
+                            "Funktion": "Ablehnung begründen."
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
